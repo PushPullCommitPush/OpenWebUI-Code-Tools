@@ -87,8 +87,7 @@ exec_python(code="print(open('data.txt').read())", session_id="demo")
 
 ## Links
 
-- **System Prompt:** Included in download
-- **Issues/Feedback:** [your link here]
+
 
 ---
 
